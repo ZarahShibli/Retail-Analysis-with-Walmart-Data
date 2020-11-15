@@ -8,7 +8,7 @@
 
 ## 1. Project Motivation <a name="ProjectMotivation"></a> 
 
-**In this project  we focused retail analysis with Walmart data and answer the following questions:**
+**In this project we focused retail analysis with Walmart data and answer the following questions:**
 1. Which stores have maximum  and sales?
 2. Which store has maximum standard deviation i.e., the sales vary a lot?. Also, find out the coefficient of mean to standard deviation.
 3. Which store/s has good quarterly growth rate in Q3’2012?
